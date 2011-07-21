@@ -1,5 +1,4 @@
 #summary introduction to the Zutha project
-#sidebar TableOfContents
 
 = Introduction =
 
