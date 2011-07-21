@@ -1,4 +1,4 @@
-# introduction to the Zutha project
+#summary introduction to the Zutha project
 
 = Introduction =
 
@@ -37,6 +37,4 @@ Now imagine that George has just written a book about popular culture and decide
 
 
 = Investing =
-
-
 
