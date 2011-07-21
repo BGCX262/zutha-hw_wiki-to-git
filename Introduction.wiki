@@ -28,12 +28,3 @@ Zutha is (or will be) a semantic knowledgebase containing concepts - or _items_ 
 Items have an associated _worth_ which is determined by the collective opinion of the user community via a process of investing a virtual currency called _Zuth_. Items that appear in search results will, by default, be sorted according to their worth. A user might search, for example, for all Book items that are about China. The results would be ranked according to how highly they are valued by the Zutha community.
 
 Users with more reputation will have more influence in determining an item's worth and will also have greater privileges to make changes to the knowledgebase. 
-
-= Reputation =
-
-Users earn reputation according to the worth of the items they own. For example, a user might write a review of a film which becomes very popular - that is, the Review item achieves a high worth. The user that wrote the review also owns the corresponding item and will gain reputation in proportion to the worth of that item. 
-To illustrate, imagine that George is a new user on Zutha. He writes a review of Avatar and that review receives investment which brings its total worth to 100. George's reputation will now be 100.
-Now imagine that George has just written a book about popular culture and decides to advertise it on Zutha.net. He creates a Book item that represents his book and makes himself the owner of this new item. Other Zutha users discover his book, read it and invest in it on Zutha. As the worth of George's Book item increases, George's reputation increases proportionally.
-
-
-= Investing =
